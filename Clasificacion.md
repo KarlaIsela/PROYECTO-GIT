@@ -21,3 +21,5 @@ Te dejo mi ranking de libros, de todo tipo de género!, para que haya variedad. 
 | Juego              | Plataforma                         | Año  |
 |-------------------|-------------------------------------|------|
 | Yume Nikki         | PC (Microsoft Windows)             | 2004 |
+| Sonic Unleashed    | Xbox, PS2, Wii, PS3                | 2008 |
+| DTI: Roblox      | PC Roblox, PS4, Xbox                      | 2023 |
