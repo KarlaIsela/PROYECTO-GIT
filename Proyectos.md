@@ -14,5 +14,10 @@
 ---
 ### 🛠️ Tecnologías destacadas
 ***Apesar de que no solo me enfoco en una sola tecnología, y lenguaje, todo lo que he aplicado, lo he aprendido correctamente. Aquí una recopilación:***
-
+- **Frontend:** HTML, CSS, JavaScript, React, MUI  
+- **Backend:** Node.js, Java, MongoDB 
+- **Sistemas embebidos y hardware:** Proyectos eléctricos, fotosensores 
+- **Lenguajes:** C, C++, Bash, Python, Java  
+- **Herramientas:** Git, GitHub, Linux
+- **API's:** OpenAL, OpenGL  
 
