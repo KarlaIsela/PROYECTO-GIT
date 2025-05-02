@@ -20,4 +20,10 @@
 - **Lenguajes:** C, C++, Bash, Python, Java  
 - **Herramientas:** Git, GitHub, Linux
 - **API's:** OpenAL, OpenGL  
+---
+### ✨🌟⭐ Proyecto destacado: KATTY ⭐🌟✨
 
+![KATTY](https://i.imgur.com/Xe4h92X.png)
+
+> 🐈 *KATTY* es una mascota virtual diseñada para convivir contigo en la terminal de Linux.  
+> Responde a comandos, cambia de humor y se mantiene guardado tu proceso!
