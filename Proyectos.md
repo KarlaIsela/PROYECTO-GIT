@@ -21,7 +21,7 @@
 - **Herramientas:** Git, GitHub, Linux
 - **API's:** OpenAL, OpenGL  
 ---
-### ✨🌟⭐ Proyecto destacado: KATTY ⭐🌟✨
+### ✨🌟⭐ Proyecto destacado: KATTY ⭐🌟✨ 😻
 
 ![KATTY](https://i.imgur.com/Xe4h92X.png)
 
