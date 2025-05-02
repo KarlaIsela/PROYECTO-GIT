@@ -42,3 +42,4 @@ Si quieres saber más sobre mis proyectos, colaboraciones o simplemente decir ¡
 
 ---
 
+> _"Lo entendí todo (no entendió nada)"_ 😸🫵
