@@ -11,8 +11,9 @@ Te dejo mi ranking de libros, de todo tipo de género!, para que haya variedad. 
 4. Ópalo - *Blanca Álvarez González*
 ---
 ## 🎼 Música
-- **Metal** Rammstein 
-- **Pop Punk** Avril Lavigne 
-- **Gótico** Type O Negative 
-- **Pop** Lady Gaga
-- **Rock** Caifanes 
+- **Metal** Rammstein | [Canción Favorita](https://www.youtube.com/watch?v=xR1cVBlFXIw)
+- **Pop Punk** Avril Lavigne | [Album Favorito](https://www.youtube.com/playlist?list=OLAK5uy_mHEO-MzcBOdiTdVFbcElVZ7D6zYql2_gs)
+- **Gótico** Type O Negative | [Canción Favorita](https://www.youtube.com/watch?v=LXIWRan3XGY)
+- **Pop** Lady Gaga | [Album Favorito](https://www.youtube.com/watch?v=4qv16WcOCYA&list=PLxA687tYuMWjTBJWkaZwaPKQ_YjohmjJ0)
+- **Rock** Caifanes | [Canción Favorita](https://www.youtube.com/watch?v=HjkToJ1IG3Y)
+---
