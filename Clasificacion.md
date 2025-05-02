@@ -23,3 +23,6 @@ Te dejo mi ranking de libros, de todo tipo de género!, para que haya variedad. 
 | Yume Nikki         | PC (Microsoft Windows)             | 2004 |
 | Sonic Unleashed    | Xbox, PS2, Wii, PS3                | 2008 |
 | DTI: Roblox      | PC Roblox, PS4, Xbox                      | 2023 |
+| NieR: Automata      | PC, PS4, Xbox One                  | 2017 |
+
+![YummeNikki](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/650700/header.jpg?t=1735124248)
