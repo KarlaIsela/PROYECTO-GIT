@@ -10,7 +10,7 @@ Te dejo mi ranking de libros, de todo tipo de género!, para que haya variedad. 
 3. El mito de Sísifo - *Albert Camus*
 4. Ópalo - *Blanca Álvarez González*
 ---
-## 🎼 Música
+## 🎼 Música 🎶
 - **Metal** Rammstein | [Canción Favorita](https://www.youtube.com/watch?v=xR1cVBlFXIw)
 - **Pop Punk** Avril Lavigne | [Album Favorito](https://www.youtube.com/playlist?list=OLAK5uy_mHEO-MzcBOdiTdVFbcElVZ7D6zYql2_gs)
 - **Gótico** Type O Negative | [Canción Favorita](https://www.youtube.com/watch?v=LXIWRan3XGY)
