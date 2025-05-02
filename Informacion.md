@@ -29,3 +29,8 @@ Mi estilo es una mezcla entre lo tierno y lo gótico cute 💀💖. Estos son al
 | 🐾 LPS        | <img src="https://www.basicfun.com/wp-content/uploads/2023/09/LPS_Banner2-1024x387.jpg" width="200"/> |
 
 ---
+
+## 📬 Contacto
+
+Si quieres saber más sobre mis proyectos, colaboraciones o simplemente decir ¡hola!:
+
