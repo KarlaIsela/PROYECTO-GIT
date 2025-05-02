@@ -34,3 +34,11 @@ Mi estilo es una mezcla entre lo tierno y lo gótico cute 💀💖. Estos son al
 
 Si quieres saber más sobre mis proyectos, colaboraciones o simplemente decir ¡hola!:
 
+- 📧 **Correo:** [karlaiselasmile@gmail.com](mailto:karlaiselasmile@gmail.com)  
+
+- 👾 **Github:** [KarlaIsela](https://github.com/KarlaIsela)
+
+- 📷 **Instagram:** [Haz Click Aquí <33](https://www.instagram.com/dracukarla)
+
+---
+
