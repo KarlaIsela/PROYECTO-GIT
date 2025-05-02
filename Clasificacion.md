@@ -17,3 +17,7 @@ Te dejo mi ranking de libros, de todo tipo de género!, para que haya variedad. 
 - **Pop** Lady Gaga | [Album Favorito](https://www.youtube.com/watch?v=4qv16WcOCYA&list=PLxA687tYuMWjTBJWkaZwaPKQ_YjohmjJ0)
 - **Rock** Caifanes | [Canción Favorita](https://www.youtube.com/watch?v=HjkToJ1IG3Y)
 ---
+## 🎮 Algunos Videojuegos...
+| Juego              | Plataforma                         | Año  |
+|-------------------|-------------------------------------|------|
+| Yume Nikki         | PC (Microsoft Windows)             | 2004 |
