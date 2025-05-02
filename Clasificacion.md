@@ -26,3 +26,5 @@ Te dejo mi ranking de libros, de todo tipo de género!, para que haya variedad. 
 | NieR: Automata      | PC, PS4, Xbox One                  | 2017 |
 
 ![YummeNikki](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/650700/header.jpg?t=1735124248)
+
+Holas, aqui el novio de Karla Isela. Nomas decir que tiene gustos muy **GOD**. Sinceramente, creo que asi es. Saluditos
