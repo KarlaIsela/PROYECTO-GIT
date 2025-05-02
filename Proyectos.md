@@ -11,4 +11,8 @@
 | **BRAZO MECÁNICO** | Diseño y construcción de un brazo mecánico con orientación solar automatizada. | Proyecto eléctrico (sin código)  |
 | **KATTY** | Mascota virtual interactiva para terminales Linux. | Bash                              |
 | **MINI SHELL** | Intérprete de comandos tipo Unix con funcionalidades básicas y personalizadas | Bash                                |
+---
+### 🛠️ Tecnologías destacadas
+***Apesar de que no solo me enfoco en una sola tecnología, y lenguaje, todo lo que he aplicado, lo he aprendido correctamente. Aquí una recopilación:***
+
 
