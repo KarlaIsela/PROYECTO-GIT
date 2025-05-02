@@ -20,3 +20,15 @@
 - Git & GitHub
 - Markdown
 ---
+## 🤝 Contribuciones
+
+Este proyecto es personal, pero se agradecen sugerencias y retroalimentación constructiva vía pull request o issues.
+
+---
+
+## 📌 Nota Final
+
+Este repositorio no solo evalúa el uso técnico de herramientas de control de versiones, también refleja mis intereses, creatividad y pasión por la tecnología y el arte. ¡Gracias por visitarlo!
+<div style="text-align: center;">
+  <img src="https://giffiles.alphacoders.com/221/221856.gif" width="250" alt="Animegirl">
+</div>
