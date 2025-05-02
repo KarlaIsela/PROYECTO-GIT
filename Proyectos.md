@@ -6,5 +6,9 @@
 
 | PROYECTO | DESCRIPCIÓN | LENGUAJES-TECNOLOGÍAS |
 |----------|-------------|-----------------------|
-
+| **FIMARKET** | Plataforma web para consultar proyectos desarrollados en la Facultad de Ingeniería, UNAM. | JavaScript, MUI, React.js         |
+| **AVIARIO** | Simulación gráfica de un aviario ficticio en un entorno 3D.                | C++, OpenGL                       |
+| **BRAZO MECÁNICO** | Diseño y construcción de un brazo mecánico con orientación solar automatizada. | Proyecto eléctrico (sin código)  |
+| **KATTY** | Mascota virtual interactiva para terminales Linux. | Bash                              |
+| **MINI SHELL** | Intérprete de comandos tipo Unix con funcionalidades básicas y personalizadas | Bash                                |
 
